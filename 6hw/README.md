@@ -18,14 +18,13 @@
 
 После выгрузки датасета была получена следующая информация:
 
-Data columns (total 6 columns):
- #   Column  Non-Null Count  Dtype  
----  ------  --------------  -----  
- 0   Date    1511 non-null   object 
- 1   Open    1511 non-null   float64
- 2   High    1511 non-null   float64
- 3   Low     1511 non-null   float64
- 4   Close   1511 non-null   float64
- 5   Volume  1511 non-null   int64  
+| # | Column  | Non-Null Count | Dtype   |
+|---|---------|----------------|---------|
+| 0 | Date    | 1511 non-null  | object  |
+| 1 | Open    | 1511 non-null  | float64 |
+| 2 | High    | 1511 non-null  | float64 |
+| 3 | Low     | 1511 non-null  | float64 |
+| 4 | Close   | 1511 non-null  | float64 |
+| 5 | Volume  | 1511 non-null  | int64   | 
 
 Это свидетельствует о том, что среди записей нет пропущенных значений. 
